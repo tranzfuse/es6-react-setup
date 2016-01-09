@@ -1,0 +1,15 @@
+{
+  "name": "es6-react-setup",
+  "version": "1.0.0",
+  "description": "Git yer ES6 + React app on.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Adam Smith",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  }
+}
